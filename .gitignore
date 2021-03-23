@@ -1,2 +1,4 @@
 .idea
 venv
+client_secrets.json
+client_secrets.txt
