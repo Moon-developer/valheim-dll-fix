@@ -92,4 +92,4 @@ class ValheimBackup:
 
 if __name__ == '__main__':
     vb = ValheimBackup()
-    vb.backup_world()
+    vb.run()
