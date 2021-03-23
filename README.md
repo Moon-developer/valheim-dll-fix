@@ -2,6 +2,7 @@
 [![valheim - 0.147.3](https://img.shields.io/badge/valheim-0.147.3-4959bf)](https://)
 [![python - 3.8.5](https://img.shields.io/badge/python-3.8.5-2ea44f)](https://)
 [![can modify - client & server](https://img.shields.io/badge/can_modify-client_%26_server-2ea44f)](https://)
+[![failing - 0.148.6](https://img.shields.io/badge/failing-0.148.6-bd803e)](https://)
 
 Python script to apply patch which fixes the server lag/desync issue. 
 
